@@ -1,0 +1,21 @@
+.nav-logo{
+    height:50px;
+    border-radius: 50%;
+}
+.mass-body{
+    height:100vh;
+    background-image: url("https://img.freepik.com/free-photo/dark-grunge-style-scratched-metal-surface_1048-12951.jpg");
+}
+.item-nav{
+    color:white;
+}
+.item-nav:hover{
+    color:aqua;
+
+}
+.anchor{
+    margin-left: auto;
+}
+.container{
+    color: white;
+}
